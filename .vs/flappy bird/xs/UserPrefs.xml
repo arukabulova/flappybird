@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DF79367F-BEB1-1290-287B-B8CC8701B895}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../ballgame/Assets/scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/scripts/fly_once.cs" Line="52" Column="1" />
+      <File FileName="Assets/scripts/pipe.cs" Line="5" Column="1" />
+      <File FileName="Assets/scripts/pipe_clone.cs" Line="30" Column="2" />
+      <File FileName="../ballgame/Assets/scripts/PlayerController.cs" Line="69" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6570953b-6c99-4b90-a4e2-71b68dd6c984" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
